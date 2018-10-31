@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:layout_width="match_parent"
+  	android:layout_height="match_parent" >
+
+	<TextView
+	    android:id="@+id/lblincident_notes"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentTop="true"
+	    android:layout_toLeftOf="@+id/fgmtStatus"
+	    android:text="@string/incident_notes" />
+
+	<EditText
+	    android:id="@+id/txtincident_notes"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/lblincident_notes"
+	    android:ems="20"
+	    android:layout_marginBottom="5dp"
+	    android:layout_toLeftOf="@+id/fgmtStatus"
+	    android:inputType="textMultiLine" >
+
+	    <requestFocus />
+	</EditText>
+
+	<TextView
+	    android:id="@+id/lblincident_address"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/txtincident_notes"
+	    android:layout_toLeftOf="@+id/fgmtStatus"
+	    android:text="@string/incident_address" />
+
+	<EditText
+	    android:id="@+id/txtincident_address"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/lblincident_address"
+	    android:ems="20"
+	    android:layout_marginBottom="5dp"
+	    android:layout_toLeftOf="@+id/fgmtStatus"
+	    android:inputType="textPostalAddress" />
+
+	<Button
+	    android:id="@+id/btnCreateIncident"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@id/txtincident_address"
+	    android:layout_toLeftOf="@+id/fgmtStatus"
+	    android:text="@string/create_incident"
+	    android:onClick="initCommDashboard" />
+    
+	<fragment android:name="com.cmusv.ias.StatusFragment"
+        android:id="@+id/fgmtStatus"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+		
+		
+</RelativeLayout>
+

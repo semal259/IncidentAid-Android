@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <ExpandableListView
+                android:id="@+id/lvExp"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/btnAddMember"
+                android:layout_width="match_parent"/> 
+    
+	<Button
+	    android:id="@+id/btnAddMember"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:onClick="onCloseClick"
+	    android:text="@string/add_team" />
+    
+</RelativeLayout>

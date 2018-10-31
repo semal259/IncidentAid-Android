@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\values-be\\common_strings.xml",
+                    "from": {
+                        "startLines": "9,8,7,6,4,5,3,20,22,21,25,11,10,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1118,941,815,686,296,490,170,2034,2301,2178,2662,1376,1246,2771,2863",
+                        "endColumns": "127,176,125,128,193,195,125,143,237,122,108,171,129,91,105",
+                        "endOffsets": "1241,1113,936,810,485,681,291,2173,2534,2296,2766,1543,1371,2858,2964"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,183,360,486,615,809,1005,1131,1275,1513,1636,1745,1917,2047,2139",
+                        "endColumns": "127,176,125,128,193,195,125,143,237,122,108,171,129,91,105",
+                        "endOffsets": "178,355,481,610,804,1000,1126,1270,1508,1631,1740,1912,2042,2134,2240"
+                    }
+                }
+            ]
+        }
+    ]
+}

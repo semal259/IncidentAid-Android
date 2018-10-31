@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SMSTest!</string>
+    <string name="app_name">Incident Aide System</string>
+    <string name="vacate_msg">VACATE !</string>
+    <string name="utilities_on_msg">Utilities ON !</string>
+    <string name="utilities_off_msg">Utilities OFF !</string>
+    <string name="all_clear_msg">All Clear !</string>
+    <string name="man_down_msg">Man Down !</string>
+    <string name="login_label">Choose Your Role</string>
+    <string name="commander_radio_btn">Commander</string>
+    <string name="firefighter_radio_btn">Firefighter</string>
+    <string name="login_submit">Login !</string>
+    <string name="http_get">HTTP GET</string>
+    <string name="http_post">HTTP POST</string>
+    <string name="username">Username</string>
+    <string name="title_activity_profile">User Details</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="preferences">Settings</string>
+    <string name="title_activity_cdashboard">Commander</string>
+    <string name="title_comm_dashboard">Dashboard</string>
+    <string name="title_comm_alerts">Alerts</string>
+    <string name="title_comm_cop">COP</string>
+    <string name="title_activity_comm_dash">CommDashActivity</string>
+    <string name="title_activity_createincident">Create Incident</string>
+    <string name="transfer_ownership">Transfer Ownership</string>
+    <string name="incident_details">Some details about the incident</string>
+    <string name="title_comm_teams">Teams</string>
+    <string name="engine_no">Engine Number</string>
+    <string name="incident_notes">Incident Summary</string>
+    <string name="incident_address">Address</string>
+    <string name="create_incident">Create Incident</string>
+    <string name="par_interval">PAR Interval</string>
+    <string name="save">Save</string>
+    <string name="lblUsername">"USERNAME: "</string>
+    <string name="lblPassword">PASSWORD: </string>
+    <string name="lblEngine">"ENGINE: "</string>
+    <string name="lblContact">"CONTACT: "</string>
+    <string name="lblLastAlert">"LAST ALERT: "</string>
+    <string name="title_activity_responder">Responder</string>
+    <string name="placeholder_engine">"ENG#"</string>
+    <string name="connectivity_description">"CONNECTIVITY STATUS"</string>
+    <string name="cop_description">"Current Operating Picture"</string>
+    <string name="logout">"Logout"</string>
+    <string name="title_activity_comm_cop">"COP"</string>
+    <string name="close_incident">"CLOSE INCIDENT"</string>
+    <string name="add_team">"Add Team"</string>
+    <string name="blank">""</string>
+    <string name="ok">"OK"</string>
+    <string name="vacate">"Vacate"</string>
+    <string name="utilities_on">"Utilities On"</string>
+    <string name="utilities_off">"Utilities Off"</string>
+    <string name="rescue_in_prog">"Rescue In Progress"</string>
+    <string name="par">"PAR"</string>
+    <string name="life_haz">"Life Hazard"</string>
+    <string name="all_clear">"All Clear"</string>
+    <string name="vert_vent">"Vertical Vent"</string>
+    <string name="cross_vent">"Cross Vent"</string>
+    <string name="mayday">"Mayday"</string>
+    <string name="take_picture">"TAKE PICTURE"</string>
+
+    <string-array name="messages_array">
+        <item>Vacate</item>
+        <item>Utilities ON</item>
+        <item>Utilities OFF</item>
+        <item>Man Down</item>
+        <item>All Clear</item>
+        <item>Write Message</item>
+    </string-array>
+    <string-array name="engine_array">
+        <item>Engine 1</item>
+        <item>Engine 2</item>
+        <item>Engine 3</item>
+        <item>Engine 4</item>
+        <item>Engine 5</item>
+        <item>Engine 6</item>
+        <item>Engine 7</item>
+        <item>Engine 8</item>
+    </string-array>
+    <string-array name="contacts_array">
+        <item>4083685859</item>
+        <item>4082158400</item>
+        <item>4089921363</item>
+    </string-array>
+
+    <string name="title_activity_mayday">Mayday</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

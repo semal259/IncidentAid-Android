@@ -1,0 +1,878 @@
+[
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_sys_battery_10.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\stat_sys_battery_10.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_profile.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\menu\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_connectivity_good.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\connectivity_good.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_utilities_off.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\utilities_off.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_utilitiesoff.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_utilitiesoff.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ack_msg_list.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\ack_msg_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_life_haz_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\life_haz_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_comm_team.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\fragment_comm_team.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_state.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\new_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_powered_by_google_light.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_responder.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\responder.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_contacts_inactive.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_contacts_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_sys_battery_100.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\stat_sys_battery_100.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_utilities_on_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\utilities_on_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vacate_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\vacate_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_powered_by_google_light.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vert_vent_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\vert_vent_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_contacts_active.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_contacts_active.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_powered_by_google_light.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cross_vent_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cross_vent_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_sys_battery_80.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\stat_sys_battery_80.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_thumb.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\progress_thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_1_t.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_1_t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_2_t.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_2_t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seekbar_background.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\seekbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_incident.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\activity_create_incident.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_par_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\par_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_original_state.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\original_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_sys_battery_60.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\stat_sys_battery_60.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_utilities_on_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\utilities_on_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_acknowledgements_active.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_acknowledgements_active.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_connectivity_bad.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\connectivity_bad.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_flashscreen.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\flashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_messages_inactive.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_messages_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_messages.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\tab_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_7.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\color_wallet_primary_text_holo_light.xml.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_contacts.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\tab_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rescue_in_prog.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\rescue_in_prog.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_responderdialog.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\responderdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_ring.ogg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\raw\\ring.ogg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mayday.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\mayday.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_commander_tabs.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\commander_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_4_t.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_4_t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_6_t.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_6_t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_cdashboard.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\menu\\cdashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\color_common_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cross_vent_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cross_vent_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cross_vent.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\cross_vent.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_2.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vert_vent_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\vert_vent_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\color_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_sys_battery_20.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\stat_sys_battery_20.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_utilities_off_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\utilities_off_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_pressed_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vacate_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\vacate_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_responder_cop.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\activity_responder_cop.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_comm_dashboard.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\fragment_comm_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vert_vent.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\vert_vent.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_sql.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\raw\\sql.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mayday_acc.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\mayday_acc.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_powered_by_google_light.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mayday.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\activity_mayday.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_life_haz_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\life_haz_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\color_common_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mayday_acc_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\mayday_acc_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_par_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\par_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_sys_battery_40.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\stat_sys_battery_40.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_firefighter.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\activity_firefighter.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rescue_in_prog_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\rescue_in_prog_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_comm_alert.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\fragment_comm_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_disabled_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_group.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_normal_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_utilitieson.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_utilitieson.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_pressed_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_3.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_disabled_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_comm_dash.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\menu\\comm_dash.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_all_clear_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\all_clear_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_comm_cop.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\fragment_comm_cop.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rescue_in_prog_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\rescue_in_prog_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_4.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\color_wallet_secondary_text_holo_dark.xml.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_image.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\image.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vacate.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\vacate.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_1.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_disabled_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_par.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\par.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_disabled_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_mayday.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\menu\\mayday.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_all_clear.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\all_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_all_clear_icon.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\all_clear_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_disabled_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_allclear.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_allclear.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_normal_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_5_t.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_5_t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_utilities_on.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\utilities_on.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_3_t.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_3_t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_7_t.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_7_t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_utilities_off_animation.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\utilities_off_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_pressed_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_acknowledgements.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\tab_acknowledgements.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_android.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\bg_android.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_disabled_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_acknowledgements_inactive.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_acknowledgements_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_6.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_messages_active.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_messages_active.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_vacate.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_vacate.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_normal_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_signin_btn_icon_disabled_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_writemessage.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_writemessage.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cop_5.jpg.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\cop_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_icon_focus_dark.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_status.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mayday.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\mayday.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cdashboard.xml.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\layout\\activity_cdashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_life_haz.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable-hdpi\\life_haz.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_pressed_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_text_focus_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_mandown.png.flat",
+        "source": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\src\\main\\res\\drawable\\icon_mandown.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xxhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-mdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_signin_btn_icon_normal_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\theon\\Desktop\\IAS-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_signin_btn_text_disabled_light.9.png.flat",
+        "source": "C:\\Users\\theon\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-5.0.89.aar\\97812abc059f6ed732d856f7e7eb61b9\\res\\drawable-xhdpi\\common_signin_btn_text_disabled_light.9.png"
+    }
+]

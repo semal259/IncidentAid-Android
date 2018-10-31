@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   	xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+   	android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    tools:context="${packageName}.${activityClass}"
+    android:baselineAligned="false" >
+
+    <TextView
+        android:id="@+id/lblUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/lblUsername" 
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+   
+    <TextView
+        android:id="@+id/responder_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_below="@id/lblUsername"
+        android:layout_alignParentLeft="true"
+        android:text="@string/lblUsername" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    <TextView
+        android:id="@+id/lblContact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/responder_username"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/lblContact" 
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+   
+    <TextView
+        android:id="@+id/responder_contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lblContact"
+        android:layout_alignParentLeft="true"
+        android:text="@string/lblContact" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    <TextView
+        android:id="@+id/lbl_responder_engine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/responder_contact"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/lblEngine" 
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <TextView
+        android:id="@+id/responder_engine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lbl_responder_engine"
+        android:layout_alignParentLeft="true"
+        android:text="@string/lblEngine" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+           
+    <Button
+	    android:id="@+id/btnOpenCreateIncident"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_above="@+id/btnLogout"
+	    android:layout_alignParentLeft="true"
+	    android:layout_toLeftOf="@+id/fgmtStatus"
+	    android:text="@string/create_incident"
+	    android:onClick="initCreateIncident" />
+
+    <Button
+	    android:id="@+id/btnLogout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:text="@string/logout"
+	    android:layout_alignParentBottom="true"
+	    android:layout_alignParentLeft="true"
+	    android:layout_toLeftOf="@+id/fgmtStatus"
+	    android:layout_marginTop="7dp"
+	    android:onClick="onLogoutClick" />
+    
+	<fragment android:name="com.cmusv.ias.StatusFragment"
+        android:id="@+id/fgmtStatus"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+       
+</RelativeLayout>
+
+

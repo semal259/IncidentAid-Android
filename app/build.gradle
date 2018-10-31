@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '27.0.3'
+
+    defaultConfig {
+        applicationId "com.cmusv.ias"
+        minSdkVersion 17
+        targetSdkVersion 19
+
+        testApplicationId "com.cmusv.ias.test"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+        debug {
+            debuggable true
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.android.support:support-v13:+'
+    compile 'com.google.code.gson:gson:2.3'
+    compile 'com.google.android.gms:play-services:5.+'
+
+
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'org.testng:testng:6.9.6'
+}

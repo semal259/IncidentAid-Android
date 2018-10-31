@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="7" >
+
+<android.support.v4.view.ViewPager 
+    android:id="@+id/pager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    tools:context="com.cmusv.ias.CDashboardActivity" />
+
+    <fragment android:name="com.cmusv.ias.StatusFragment"
+            android:id="@+id/fgmtStatus"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="6" />
+    
+</LinearLayout>

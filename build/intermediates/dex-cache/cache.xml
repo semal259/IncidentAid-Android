@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/pre-dexed/debug/classes-a6c8f6d37d0686cf815aa727a74e2d8ef5b51fa5.jar" />
+    </item>
+    <item
+        jar="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/pre-dexed/debug/classes-d057826f43c29c23465a6f171ffa8d3542ecbe0f.jar" />
+    </item>
+    <item
+        jar="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fb6425a2b1da8164ca1757758b54a0eb9b73aa3c.jar" />
+    </item>
+    <item
+        jar="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-96bd306cb8e89c819faab62481589e21eb9db4ab.jar" />
+    </item>
+    <item
+        jar="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/pre-dexed/debug/classes-fefe0f3e854b6f51830b230c3b46de79696e376e.jar" />
+    </item>
+    <item
+        jar="/Users/lloyddsilva/Software/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3c5162e760014dcb7acbf1484d28a92c340d7397.jar" />
+    </item>
+    <item
+        jar="/Users/lloyddsilva/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/lloyddsilva/AndroidStudioProjects/IAS/app/build/intermediates/pre-dexed/debug/gson-2.3-d0c489f1cf8912f7e346aecb3c0c4c3adba3906e.jar" />
+    </item>
+
+</items>
