@@ -1,8 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
-    buildToolsVersion '27.0.3'
+    compileSdkVersion 19
 
     defaultConfig {
         applicationId "com.cmusv.ias"
@@ -25,10 +24,10 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:19.1.0'
-    compile 'com.android.support:support-v13:+'
-    compile 'com.google.code.gson:gson:2.3'
-    compile 'com.google.android.gms:play-services:5.+'
+
+    implementation 'com.android.support:support-v13:+'
+    implementation 'com.google.code.gson:gson:2.3'
+    implementation 'com.google.android.gms:play-services:5.+'
 
 
     testImplementation 'junit:junit:4.12'
