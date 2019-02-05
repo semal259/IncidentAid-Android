@@ -2,7 +2,7 @@
 <resources>
 
     <string name="hello">Hello World, SMSTest!</string>
-    <string name="app_name">Incident Aide System</string>
+    <string name="app_name">IncidentAid System</string>
     <string name="vacate_msg">VACATE !</string>
     <string name="utilities_on_msg">Utilities ON !</string>
     <string name="utilities_off_msg">Utilities OFF !</string>

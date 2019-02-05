@@ -39,7 +39,8 @@ public class IASHelper {
 	// ROUTES for end points - BEGIN
 	//
 	//private static String routeIP = "http://107.170.238.227:3000";
-    private static String routeIP = "http://104.131.135.109:3000";
+    // private static String routeIP = "http://104.131.135.109:3000";
+	private static String routeIP = "http://54.202.157.179:3000";
 
 	private static String routeCreateUser = routeIP + "/create_user";
 	private static String routeCreateEvent = routeIP + "/create_event";
@@ -484,7 +485,6 @@ public class IASHelper {
 			if (networkInfo != null && networkInfo.isConnected()) {
 
 				json = req.getFromURL(route);
-
 				Log.v(LOG_TAG, "receiveGET() :OK");
 
 			} else {

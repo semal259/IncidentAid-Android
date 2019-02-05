@@ -14,7 +14,7 @@ import android.os.AsyncTask;
 import android.util.Log;
 
 public class AsyncHTTPRequest {
-	private static final String TAG = "HTTPRester";
+	private static final String TAG = "AsyncHTTPRequest";
 
 	private String readStream(InputStream in) throws IOException {
 
@@ -27,7 +27,7 @@ public class AsyncHTTPRequest {
 		while (i != -1) {
 			str = str + String.valueOf(buffer, 0, i);
 			i = reader.read(buffer, 0, 1000);
-			Log.d(TAG, str);
+			Log.d(TAG +"read" , str);
 		}
 		Log.d(TAG, str);
 		reader.close();
