@@ -27,7 +27,7 @@ public class MyService extends Service {
 	public void onDestroy() {
 		// TODO Auto-generated method stub
 		super.onDestroy();
-		Toast.makeText(this, "Service Destroied", Toast.LENGTH_LONG).show();
+		Toast.makeText(this, "Service Destroyed", Toast.LENGTH_LONG).show();
 	}
 
 	// TODO: resolve deprecation

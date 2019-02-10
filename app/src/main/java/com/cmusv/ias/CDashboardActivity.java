@@ -142,9 +142,9 @@ public class CDashboardActivity extends Activity implements
 				}
 			}
 			catch (Exception e) {
-				Log.d("Broadcast Connectivity Reciever Exception", e.getClass().getName());
+				Log.d("Broadcast Rec Exception", e.getClass().getName());
 				if (e.getLocalizedMessage() != null)
-					Log.d("Broadcast Connectivity Reciever Exception", e.getLocalizedMessage());
+					Log.d("Broadcast Rec Exception", e.getLocalizedMessage());
         	}
 			
 		}
