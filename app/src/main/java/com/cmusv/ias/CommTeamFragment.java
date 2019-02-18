@@ -186,7 +186,7 @@ public class CommTeamFragment extends Fragment{
 				getActivity().unregisterReceiver(sent_reciever);
 		}
 		catch (Exception e) {
-			Log.d("Comm Dashboard Exception", e.getClass().getName());
+			Log.d("CommDashboard Exception", e.getClass().getName());
     	}
 		super.onDestroyView();
 	}

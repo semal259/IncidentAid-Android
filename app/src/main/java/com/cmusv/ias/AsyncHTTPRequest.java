@@ -22,7 +22,7 @@ public class AsyncHTTPRequest {
 
 		InputStreamReader reader = new InputStreamReader(in);
 		char[] buffer = new char[1000];
-		String str = new String();
+		String str = "";
 		int i = reader.read(buffer, 0, 1000);
 		while (i != -1) {
 			str = str + String.valueOf(buffer, 0, i);
@@ -81,10 +81,9 @@ public class AsyncHTTPRequest {
 
 			URL url;
 			HttpURLConnection urlConnection = null;
-			String str = new String();
+			String str = "";
 
 			try {
-
 				url = new URL(params[0]);
 				urlConnection = (HttpURLConnection) url.openConnection();
 				urlConnection.setRequestMethod("GET");

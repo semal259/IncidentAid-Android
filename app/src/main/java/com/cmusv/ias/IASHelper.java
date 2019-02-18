@@ -52,47 +52,28 @@ public class IASHelper {
 	private static String routeGetAllIncidents = routeIP + "/get_all_incidents";
 	private static String routeGetAllEngines = routeIP + "/get_all_engines";
 
-	private static String routeGetUserByUserName = routeIP
-			+ "/get_user_by_user_name";
-	private static String routeGetUsersByJobRole = routeIP
-			+ "/get_users_by_job_role";
-	private static String routeGetUsersByEngineName = routeIP
-			+ "/get_users_by_engine_name";
-	private static String routeGetUsersByIncidentName = routeIP
-			+ "/get_users_by_incident_name";
-	private static String routeGetEventsByIncidentName = routeIP
-			+ "/get_events_by_incident_name";
-	private static String routeGetEventsByUserName = routeIP
-			+ "/get_events_by_user_name";
-	private static String routeGetIncidentByIncidentName = routeIP
-			+ "/get_incident_by_incident_name";
-	private static String routeGetCurrentIncidentByUserName = routeIP
-			+ "/get_current_incident_by_user_name";
-	private static String routeGetIncidentsByUserName = routeIP
-			+ "/get_incidents_by_user_name";
-	private static String routeGetEngineByEngineName = routeIP
-			+ "/get_engine_by_engine_name";
+	private static String routeGetUserByUserName = routeIP + "/get_user_by_user_name";
+	private static String routeGetUsersByJobRole = routeIP + "/get_users_by_job_role";
+	private static String routeGetUsersByEngineName = routeIP + "/get_users_by_engine_name";
+	private static String routeGetUsersByIncidentName = routeIP + "/get_users_by_incident_name";
+	private static String routeGetEventsByIncidentName = routeIP + "/get_events_by_incident_name";
+	private static String routeGetEventsByUserName = routeIP + "/get_events_by_user_name";
+	private static String routeGetIncidentByIncidentName = routeIP + "/get_incident_by_incident_name";
+	private static String routeGetCurrentIncidentByUserName = routeIP + "/get_current_incident_by_user_name";
+	private static String routeGetIncidentsByUserName = routeIP + "/get_incidents_by_user_name";
+	private static String routeGetEngineByEngineName = routeIP + "/get_engine_by_engine_name";
 
-	private static String routeDeleteUserByUserName = routeIP
-			+ "/delete_user_by_user_name";
-	private static String routeDeleteEventsByIncidentName = routeIP
-			+ "/delete_events_by_incident_name";
-	private static String routeDeleteIncidentByIncidentName = routeIP
-			+ "/delete_incident_by_incident_name";
-	private static String routeDeleteEngineByEngineName = routeIP
-			+ "/delete_engine_by_engine_name";
+	private static String routeDeleteUserByUserName = routeIP + "/delete_user_by_user_name";
+	private static String routeDeleteEventsByIncidentName = routeIP + "/delete_events_by_incident_name";
+	private static String routeDeleteIncidentByIncidentName = routeIP + "/delete_incident_by_incident_name";
+	private static String routeDeleteEngineByEngineName = routeIP + "/delete_engine_by_engine_name";
 
-	private static String routeUpdateUserByUserName = routeIP
-			+ "/update_user_by_user_name";
-	private static String routeUpdateIncidentByIncidentName = routeIP
-			+ "/update_incident_by_incident_name";
-	private static String routeUpdateIncidentCommander = routeIP
-			+ "/update_incident_commander";
-	private static String routeUpdateEngineByEngineName = routeIP
-			+ "/update_engine_by_engine_name";
+	private static String routeUpdateUserByUserName = routeIP + "/update_user_by_user_name";
+	private static String routeUpdateIncidentByIncidentName = routeIP + "/update_incident_by_incident_name";
+	private static String routeUpdateIncidentCommander = routeIP + "/update_incident_commander";
+	private static String routeUpdateEngineByEngineName = routeIP + "/update_engine_by_engine_name";
 
-	private static String routeAuthenticateUser = routeIP
-			+ "/authenticate_user";
+	private static String routeAuthenticateUser = routeIP + "/authenticate_user";
 	//
 	// ROUTES for end points - END
 	//
@@ -101,7 +82,7 @@ public class IASHelper {
 																	// to be
 																	// removed
 																	// once tied
-																	// to SQLite
+																		// to SQLite
 	//private String localContact;
 	//private String localRole;
 
@@ -441,7 +422,7 @@ public class IASHelper {
 	public static String sendPOSTGET(Context context, String route, String json) {
 
 		Log.d(LOG_TAG, "sendPOSTGET()");
-		String str = new String();
+		String str = "";
 
 		try {
 
@@ -474,7 +455,7 @@ public class IASHelper {
 	public static String receiveGET(Context context, String route) {
 
 		Log.d(LOG_TAG, "receiveGET()");
-		String json = new String();
+		String json = "";
 
 		try {
 			ConnectivityManager connMgr = (ConnectivityManager) context
@@ -672,8 +653,7 @@ public class IASHelper {
 
 		try {
 			Gson gson = new Gson();
-			Type listType = new TypeToken<ArrayList<IASIncident>>() {
-			}.getType();
+			Type listType = new TypeToken<ArrayList<IASIncident>>(){}.getType();
 			List<IASIncident> list = gson.fromJson(jsonFrom, listType);
 			Log.d(LOG_TAG, "getAllIncidents() :GET OK, JSON");
 			return list;
@@ -889,8 +869,7 @@ public class IASHelper {
 		if (!jsonFrom.isEmpty()) {
 			try {
 
-				Type listType = new TypeToken<ArrayList<IASUser>>() {
-				}.getType();
+				Type listType = new TypeToken<ArrayList<IASUser>>() {}.getType();
 				List<IASUser> list = gson.fromJson(jsonFrom, listType);
 				Log.d(LOG_TAG, "getUsersByEngineName() :GET OK, JSON");
 				return list;
@@ -913,8 +892,8 @@ public class IASHelper {
 	}
 
 	public static List<String> getUserNamesByEngineName(Context context, String engine_name) {
-		List<String> user_names_by_engine = new ArrayList<String>();
-		List<IASUser> userList = new ArrayList<IASUser>();
+		List<String> user_names_by_engine = new ArrayList<>();
+		List<IASUser> userList = new ArrayList<>();
 		userList = getUsersByEngineName(context, engine_name);
 		
 		for (IASUser all_users : userList) {
