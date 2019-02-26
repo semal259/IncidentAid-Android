@@ -11,9 +11,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_weight="1"
-    tools:context="com.cmusv.ias.CDashboardActivity" />
+    tools:context="com.cmusv.ias.ui.activity.CDashboardActivity" />
 
-    <fragment android:name="com.cmusv.ias.StatusFragment"
+    <fragment android:name="com.cmusv.ias.ui.fragment.StatusFragment"
             android:id="@+id/fgmtStatus"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

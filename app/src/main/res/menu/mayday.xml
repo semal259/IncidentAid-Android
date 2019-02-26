@@ -1,6 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.cmusv.ias.MaydayActivity" >
+    tools:context="com.cmusv.ias.ui.activity.MaydayActivity" >
 
     <item
         android:id="@+id/action_settings"

@@ -53,7 +53,7 @@
 	    android:text="@string/create_incident"
 	    android:onClick="initCommDashboard" />
     
-	<fragment android:name="com.cmusv.ias.StatusFragment"
+	<fragment android:name="com.cmusv.ias.ui.fragment.StatusFragment"
         android:id="@+id/fgmtStatus"
         android:layout_alignParentRight="true"
         android:layout_width="wrap_content"

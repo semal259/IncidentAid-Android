@@ -5,6 +5,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
+import com.cmusv.ias.MyService;
+
 public class BootUPBroadcastReceiver extends BroadcastReceiver {
 
 	@Override

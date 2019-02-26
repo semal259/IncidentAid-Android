@@ -85,7 +85,7 @@
 	    android:layout_marginTop="7dp"
 	    android:onClick="onLogoutClick" />
     
-	<fragment android:name="com.cmusv.ias.StatusFragment"
+	<fragment android:name="com.cmusv.ias.ui.fragment.StatusFragment"
         android:id="@+id/fgmtStatus"
         android:layout_alignParentRight="true"
         android:layout_width="wrap_content"

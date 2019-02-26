@@ -1,10 +1,11 @@
 package com.cmusv.ias.test;
 
 import org.junit.Test;
-import com.cmusv.ias.SharedData;
-import android.test.AndroidTestCase;
+import com.cmusv.ias.data.SharedData;
 
-public class EngineParsing extends AndroidTestCase {
+import static org.testng.Assert.assertEquals;
+
+public class EngineParsing {
 
 	@Test
 	public void testEngineParsing() {
